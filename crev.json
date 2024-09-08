@@ -1,0 +1,28 @@
+{
+    "version": "0.0.4",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/vossenwout/crev/releases/download/v0.0.4/crev_Windows_i386.zip",
+            "bin": [
+                "crev.exe"
+            ],
+            "hash": "ff58ab020c7eccdc2090465320346e1e92caa5193e47b7de84b1610057e5de6b"
+        },
+        "64bit": {
+            "url": "https://github.com/vossenwout/crev/releases/download/v0.0.4/crev_Windows_x86_64.zip",
+            "bin": [
+                "crev.exe"
+            ],
+            "hash": "bcb7dc90741b8ccf463788fb9eb4e4514cf32858a4ac847718b3d9e6b46d51ab"
+        },
+        "arm64": {
+            "url": "https://github.com/vossenwout/crev/releases/download/v0.0.4/crev_Windows_arm64.zip",
+            "bin": [
+                "crev.exe"
+            ],
+            "hash": "e28d4c4d9587fb1ac13b04ab318d195556a805b0f97ba961a0b561158ef2a5f1"
+        }
+    },
+    "homepage": "https://github.com/vossenwout/crev",
+    "description": "CLI tool for AI code reviews"
+}
