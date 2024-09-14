@@ -1,26 +1,26 @@
 {
-    "version": "0.0.5",
+    "version": "0.0.6",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/vossenwout/crev/releases/download/v0.0.5/crev_Windows_i386.zip",
+            "url": "https://github.com/vossenwout/crev/releases/download/v0.0.6/crev_Windows_i386.zip",
             "bin": [
                 "crev.exe"
             ],
-            "hash": "f3d65a217ea36c0b8012408d8b4449fcd124c5d5a6b2a28b095656a6ddd11d00"
+            "hash": "0d6e6ba89816f46aef93083c80ffc73f95992d84868a17af7a0a19b3b4639455"
         },
         "64bit": {
-            "url": "https://github.com/vossenwout/crev/releases/download/v0.0.5/crev_Windows_x86_64.zip",
+            "url": "https://github.com/vossenwout/crev/releases/download/v0.0.6/crev_Windows_x86_64.zip",
             "bin": [
                 "crev.exe"
             ],
-            "hash": "4c5fc55acffb719e99b21f04727380fe5f8458f2fc618df5842baf7b15e3c750"
+            "hash": "7c167e2c5fba585005e76d0b08539a28adb95a87b61e79e66a9f46b2ced8d3ed"
         },
         "arm64": {
-            "url": "https://github.com/vossenwout/crev/releases/download/v0.0.5/crev_Windows_arm64.zip",
+            "url": "https://github.com/vossenwout/crev/releases/download/v0.0.6/crev_Windows_arm64.zip",
             "bin": [
                 "crev.exe"
             ],
-            "hash": "115029669451e1530c7ad0ea1288b191b17f0f2d537341f38f692632081bad43"
+            "hash": "4554bd5204ccb8ea343dc9b888700a6ababd0a10c90e1aea6a3d72bb6aafdedf"
         }
     },
     "homepage": "https://github.com/vossenwout/crev",
