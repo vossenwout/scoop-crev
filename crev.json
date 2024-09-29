@@ -6,21 +6,21 @@
             "bin": [
                 "crev.exe"
             ],
-            "hash": "9a801f823a78a7cf6512b87e09d12d81bb1e28d654abdae6887fc66620fa5136"
+            "hash": "19983a7fedf4cc2940732086a8226683568ad7b1edeacd6d553fbf6eb495d485"
         },
         "64bit": {
             "url": "https://github.com/vossenwout/crev/releases/download/v1.0.0/crev_Windows_x86_64.zip",
             "bin": [
                 "crev.exe"
             ],
-            "hash": "5b46da7373dfa40585fa49469f747fe680c1b9242b27a1b1b7ec3577c279e4be"
+            "hash": "0288b5d86aa1150f2dfc0fd32de9e4eee1666769ab306edfeb18836b928308e0"
         },
         "arm64": {
             "url": "https://github.com/vossenwout/crev/releases/download/v1.0.0/crev_Windows_arm64.zip",
             "bin": [
                 "crev.exe"
             ],
-            "hash": "cb8b90620ff6d39a1490e661e0ce14367d6750635142e7b829bee9b61b5b5187"
+            "hash": "53adfa17e5190b3a0e3517b5f535f3bb7c22526c69cf38d110166aeb876d0d87"
         }
     },
     "homepage": "https://github.com/vossenwout/crev",
